@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @204g1a0585
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, Iam harsha
+- Reality = (Code + Coffee) * Infinite Loop ☕
+- 🗣️ Tech Speaker
+- 🎮 gamer🤓
+- Let's Jam and Code Together! 🎵
 
 <!---
 204g1a0585/204g1a0585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
